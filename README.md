@@ -194,6 +194,6 @@ Issues należy wykorzystywać do:
 
 * 🌐 INF.04 – Czerwiec 2021
 
-  * 📄 Arkusz: [2021/lato/INF.04-01-21.06-SG - Aplikacja mobilna Rejestruj konto/inf_04_2021_06_01_SG_kolor.pdf]
+  * 📄 Arkusz: [INF.04 – Czerwiec 2021 (Aplikacja mobilna)](2021/lato/INF.04-01-21.06-SG%20-%20Aplikacja%20mobilna%20Rejestruj%20konto/inf_04_2021_06_01_SG_kolor.pdf)
   * 📝 Zasady oceniania: [link]
   * 💻 Rozwiązanie: [link]
