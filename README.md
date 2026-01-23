@@ -54,51 +54,100 @@ Issues należy wykorzystywać do:
 
 ---
 
-## 📅 Arkusze według roczników
+## 📅 Arkusze według roczników i sesji
 
-📦 Każdy arkusz zawiera:
-- 📄 arkusz egzaminacyjny
-- 📝 zasady oceniania
-- 💻 rozwiązanie
-
----
-
-### 🗓️ 2024
-
-#### 🖥️ INF.04 – Styczeń 2024
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
-
-#### 🌐 INF.04 – Czerwiec 2024
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
-
----
-
-### 🗓️ 2023
-
-#### ⚙️ INF.04 – Styczeń 2023
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
-
-#### 🖥️ INF.04 – Czerwiec 2023
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
-
----
+### 🗓️ 2021
+#### Lato
+- 🌐 INF.04 – Czerwiec 2021
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
 
 ### 🗓️ 2022
+#### Lato
+- ⚙️ INF.04 – Czerwiec 2022
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🖥️ INF.04 – Czerwiec 2022
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
 
-#### 🌐 INF.04 – Styczeń 2022
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+#### Zima
+- 🌐 INF.04 – Styczeń 2022
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
 
----
+### 🗓️ 2023
+#### Lato
+- ⚙️ INF.04 – Czerwiec 2023
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🖥️ INF.04 – Czerwiec 2023
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🌐 INF.04 – Czerwiec 2023
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
 
-## 🗂 Struktura katalogów (przykład)
+#### Zima
+- ⚙️ INF.04 – Styczeń 2023
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🖥️ INF.04 – Styczeń 2023
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+
+### 🗓️ 2024
+#### Lato
+- 🖥️ INF.04 – Czerwiec 2024
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🌐 INF.04 – Czerwiec 2024
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+
+#### Zima
+- ⚙️ INF.04 – Styczeń 2024
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🖥️ INF.04 – Styczeń 2024
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+
+### 🗓️ 2025
+#### Lato
+- ⚙️ INF.04 – Czerwiec 2025
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- 🖥️ INF.04 – Czerwiec 2025
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+
+#### Zima
+- 🌐 INF.04 – Styczeń 2025
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+- ⚙️ INF.04 – Styczeń 2025
+  - 📄 Arkusz: [link]
+  - 📝 Zasady oceniania: [link]
+  - 💻 Rozwiązanie: [link]
+
+### 🗓️ 2026
+#### Soon
+- Informacje o arkuszach pojawią się wkrótce
 
