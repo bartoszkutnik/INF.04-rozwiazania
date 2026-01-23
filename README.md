@@ -69,6 +69,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+
 - 🖥️ INF.04 – Czerwiec 2022
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -86,10 +87,12 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🖥️ INF.04 – Czerwiec 2023
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🌐 INF.04 – Czerwiec 2023
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -100,6 +103,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🖥️ INF.04 – Styczeń 2023
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -111,6 +115,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🌐 INF.04 – Czerwiec 2024
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -121,6 +126,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🖥️ INF.04 – Styczeń 2024
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -132,6 +138,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - 🖥️ INF.04 – Czerwiec 2025
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -142,6 +149,7 @@ Issues należy wykorzystywać do:
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
   - 💻 Rozwiązanie: [link]
+    
 - ⚙️ INF.04 – Styczeń 2025
   - 📄 Arkusz: [link]
   - 📝 Zasady oceniania: [link]
@@ -149,5 +157,4 @@ Issues należy wykorzystywać do:
 
 ### 🗓️ 2026
 #### Soon
-- Informacje o arkuszach pojawią się wkrótce
 
