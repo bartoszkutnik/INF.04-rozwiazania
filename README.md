@@ -9,11 +9,12 @@
 ## 🎯 Zakres repozytorium
 
 W repozytorium znajdują się:
-- 📄 arkusze egzaminacyjne INF.04
-- 📝 zasady oceniania
-- 💻 kompletne rozwiązania zadań
-- 🧠 opisy zastosowanych rozwiązań i decyzji projektowych
-- 🗂 uporządkowana struktura katalogów
+
+* 📄 arkusze egzaminacyjne INF.04
+* 📝 zasady oceniania
+* 💻 kompletne rozwiązania zadań
+* 🧠 opisy zastosowanych rozwiązań i decyzji projektowych
+* 🗂 uporządkowana struktura katalogów
 
 ---
 
@@ -22,83 +23,177 @@ W repozytorium znajdują się:
 Repozytorium jest otwarte na współpracę i rozwój społecznościowy.
 
 ### 🔁 Pull Requests
+
 Pull requesty są mile widziane w przypadku:
-- ➕ dodania nowych arkuszy lub brakujących roczników
-- 🔄 zaproponowania alternatywnych rozwiązań
-- 🛠 poprawy błędów merytorycznych lub technicznych
-- ✏️ refaktoryzacji kodu oraz poprawy czytelności
+
+* ➕ dodania nowych arkuszy lub brakujących roczników
+* 🔄 zaproponowania alternatywnych rozwiązań
+* 🛠 poprawy błędów merytorycznych lub technicznych
+* ✏️ refaktoryzacji kodu oraz poprawy czytelności
 
 Każdy dodany arkusz powinien zawierać:
-- 📄 link do arkusza egzaminacyjnego (CKE)
-- 📝 link do zasad oceniania
-- 💡 kompletne rozwiązanie wraz z opisem
+
+* 📄 link do arkusza egzaminacyjnego (CKE)
+* 📝 link do zasad oceniania
+* 💡 kompletne rozwiązanie wraz z opisem
 
 ---
 
 ### ❓ Issues
+
 Issues należy wykorzystywać do:
-- 🐞 zgłaszania błędów
-- ❔ zadawania pytań dotyczących rozwiązań
-- 📢 omawiania wątpliwości interpretacyjnych poleceń egzaminacyjnych
+
+* 🐞 zgłaszania błędów
+* ❔ zadawania pytań dotyczących rozwiązań
+* 📢 omawiania wątpliwości interpretacyjnych poleceń egzaminacyjnych
 
 ---
 
 ## 🧭 Legenda – typ aplikacji
 
-| Oznaczenie | Typ aplikacji |
-|-----------|---------------|
-| ⚙️ | Aplikacja konsolowa |
-| 🖥️ | Aplikacja desktopowa |
-| 🌐 | Aplikacja webowa |
-| 📱 | Aplikacja mobilna |
+| Oznaczenie | Typ aplikacji        |
+| ---------- | -------------------- |
+| ⚙️         | Aplikacja konsolowa  |
+| 🖥️        | Aplikacja desktopowa |
+| 🌐         | Aplikacja webowa     |
+| 📱         | Aplikacja mobilna    |
 
 ---
 
-## 📅 Arkusze według roczników
+## 📅 Arkusze według roczników i sesji
 
-📦 Każdy arkusz zawiera:
-- 📄 arkusz egzaminacyjny
-- 📝 zasady oceniania
-- 💻 rozwiązanie
+### 🗓️ 2026
 
----
+#### Soon
+
+* Informacje o arkuszach pojawią się wkrótce
+
+### 🗓️ 2025
+
+#### Lato
+
+* ⚙️ INF.04 – Czerwiec 2025
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🖥️ INF.04 – Czerwiec 2025
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+#### Zima
+
+* 🌐 INF.04 – Styczeń 2025
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* ⚙️ INF.04 – Styczeń 2025
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
 
 ### 🗓️ 2024
 
-#### 🖥️ INF.04 – Styczeń 2024
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+#### Lato
 
-#### 🌐 INF.04 – Czerwiec 2024
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+* 🖥️ INF.04 – Czerwiec 2024
 
----
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🌐 INF.04 – Czerwiec 2024
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+#### Zima
+
+* ⚙️ INF.04 – Styczeń 2024
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🖥️ INF.04 – Styczeń 2024
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
 
 ### 🗓️ 2023
 
-#### ⚙️ INF.04 – Styczeń 2023
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+#### Lato
 
-#### 🖥️ INF.04 – Czerwiec 2023
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+* ⚙️ INF.04 – Czerwiec 2023
 
----
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🖥️ INF.04 – Czerwiec 2023
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🌐 INF.04 – Czerwiec 2023
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+#### Zima
+
+* ⚙️ INF.04 – Styczeń 2023
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+* 🖥️ INF.04 – Styczeń 2023
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
 
 ### 🗓️ 2022
 
-#### 🌐 INF.04 – Styczeń 2022
-- 📄 Arkusz: [link]
-- 📝 Zasady oceniania: [link]
-- 💻 Rozwiązanie: [link]
+#### Lato
 
----
+* ⚙️ INF.04 – Czerwiec 2022
 
-## 🗂 Struktura katalogów (przykład)
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
 
+* 🖥️ INF.04 – Czerwiec 2022
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+#### Zima
+
+* 🌐 INF.04 – Styczeń 2022
+
+  * 📄 Arkusz: [link]
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
+
+### 🗓️ 2021
+
+#### Lato
+
+* 🌐 INF.04 – Czerwiec 2021
+
+  * 📄 Arkusz: [INF.04 – Czerwiec 2021 (Aplikacja mobilna)](2021/lato/INF.04-01-21.06-SG%20-%20Aplikacja%20mobilna%20Rejestruj%20konto/inf_04_2021_06_01_SG_kolor.pdf)
+  * 📝 Zasady oceniania: [link]
+  * 💻 Rozwiązanie: [link]
