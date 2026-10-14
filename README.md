@@ -4,6 +4,13 @@
 
 📚 Materiały zostały przygotowane w celach **edukacyjnych**, w szczególności do nauki, analizy zadań oraz przygotowania do egzaminu zawodowego.
 
+💻 **Wykorzystywane technologie i środowiska programistyczne:**
+* ⚙️ **Aplikacje konsolowe:** Java (tworzone w IntelliJ IDEA)
+* 🖥️ **Aplikacje desktopowe:** Java Swing (tworzone w IntelliJ IDEA)
+* 📱 **Aplikacje mobilne:** Android Studio
+* 🌐 **Aplikacje webowe:** React JS
+* 🧪 **Testy jednostkowe:** JUnit
+
 ---
 
 ## 🎯 Zakres repozytorium
