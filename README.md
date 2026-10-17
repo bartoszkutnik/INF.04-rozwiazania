@@ -223,20 +223,20 @@ Pull requesty są mile widziane w przypadku:
   * 📄 Arkusz: [(Aplikacja mobilna)](2022/lato/INF.04-01-22.06-SG-Aplikacja_mobilna_Domek_w_górach/inf_04_2022_06_01_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2022/lato/INF.04-01-22.06-SG-Aplikacja_mobilna_Domek_w_górach/inf_04_2022_06_01_SG_zo.pdf)
   * 📦 Pliki (.zip): [(zad1.zip)](2022/lato/INF.04-01-22.06-SG-Aplikacja_mobilna_Domek_w_górach/zad1.zip)
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2022/lato/INF.04-01-22.06-SG-Aplikacja_mobilna_Domek_w_górach/konsola) | [Aplikacja mobilna](2022/lato/INF.04-01-22.06-SG-Aplikacja_mobilna_Domek_w_górach/mobilna)
 
 * 🌐 **Aplikacja webowa** | INF.04 – Czerwiec 02 2022
   * 📄 Arkusz: [(Aplikacja webowa)](2022/lato/INF.04-02-22.06-SG-Aplikacja_web_Formularz_kursy/inf_04_2022_06_02_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2022/lato/INF.04-02-22.06-SG-Aplikacja_web_Formularz_kursy/inf_04_2022_06_02_SG_zo.pdf)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2022/lato/INF.04-02-22.06-SG-Aplikacja_web_Formularz_kursy/konsola) | [Aplikacja webowa](2022/lato/INF.04-02-22.06-SG-Aplikacja_web_Formularz_kursy/web)
 
 #### Zima
 * 📱 **Aplikacja mobilna** | INF.04 – Styczeń 01 2022
   * 📄 Arkusz: [(Aplikacja mobilna)](2022/zima/INF.04-01-22.01-SG-Aplikacja_mobilna_Rejestruj_konto/inf_04_2022_01_01_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2022/zima/INF.04-01-22.01-SG-Aplikacja_mobilna_Rejestruj_konto/inf_04_2022_01_01_SG_zo.pdf)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2022/zima/INF.04-01-22.01-SG-Aplikacja_mobilna_Rejestruj_konto/konsola) | [Aplikacja mobilna](2022/zima/INF.04-01-22.01-SG-Aplikacja_mobilna_Rejestruj_konto/mobilna)
 
 ---
 
@@ -247,7 +247,7 @@ Pull requesty są mile widziane w przypadku:
   * 📄 Arkusz: [(Aplikacja mobilna)](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/inf_04_2021_06_01_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/inf_04_2021_06_01_SG_zo.pdf)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [Aplikacja konsolowa](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/aplikacja_konsolowa) | [Aplikacja mobilna](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/aplikacja_mobilna)
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/konsola) | [Aplikacja mobilna](2021/lato/INF.04-01-21.06-SG-Aplikacja_mobilna_Rejestruj_konto/mobilna)
 
 ---
 
