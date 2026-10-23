@@ -21,7 +21,6 @@ W repozytorium znajdują się:
 * 📝 zasady oceniania (kryteria oceniania CKE)
 * 📦 pliki do zadań (załączniki .zip / .7z)
 * 💻 kompletne rozwiązania zadań
-* 🧠 opisy zastosowanych rozwiązań i decyzji projektowych
 * 🗂 uporządkowana struktura katalogów
 
 ---
