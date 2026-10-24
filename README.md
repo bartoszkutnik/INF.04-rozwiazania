@@ -174,7 +174,7 @@ Pull requesty są mile widziane w przypadku:
   * 📄 Arkusz: [(Aplikacja webowa)](2023/lato/INF.04-01-23.06-SD-Aplikacja_webowa/inf_04_2023_06_01_SD.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania .xlsx)](2023/lato/INF.04-01-23.06-SD-Aplikacja_webowa/INF_04_2023_06_01_SD_zo.xlsx)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2023/lato/INF.04-01-23.06-SD-Aplikacja_webowa/konsola) | [Aplikacja webowa](2023/lato/INF.04-01-23.06-SD-Aplikacja_webowa/web)
 
 * 🖥️ **Aplikacja desktopowa** | INF.04 – Czerwiec 01 2023
   * 📄 Arkusz: [(Aplikacja desktopowa)](2023/lato/INF.04-01-23.06-SG-Aplikacja_desktopowa_Nadaj_Przesyłkę/inf_04_2023_06_01_SG_kolor.pdf)
@@ -192,26 +192,26 @@ Pull requesty są mile widziane w przypadku:
   * 📄 Arkusz: [(Aplikacja webowa)](2023/lato/INF.04-03-23.06-SG-Aplikacja_web_Formularz_filmy/inf_04_2023_06_03_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2023/lato/INF.04-03-23.06-SG-Aplikacja_web_Formularz_filmy/inf_04_2023_06_03_SG_zo.pdf)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2023/lato/INF.04-03-23.06-SG-Aplikacja_web_Formularz_filmy/konsola) | [Aplikacja webowa](2023/lato/INF.04-03-23.06-SG-Aplikacja_web_Formularz_filmy/web)
 
 #### Zima
 * 📱 **Aplikacja mobilna** | INF.04 – Styczeń 01 2023 (SD – sesja dodatkowa)
   * 📄 Arkusz: [(Aplikacja mobilna)](2023/zima/INF.04-01-23.01-SD-Aplikacja_mobilna/inf_04_2023_01_01_SD_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania .xlsx)](2023/zima/INF.04-01-23.01-SD-Aplikacja_mobilna/INF_04_2023_01_01_SD_zo.xlsx)
   * 📦 Pliki (.zip): [(zad2.zip)](2023/zima/INF.04-01-23.01-SD-Aplikacja_mobilna/zad2.zip)
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2023/zima/INF.04-01-23.01-SD-Aplikacja_mobilna/konsola) | [Aplikacja mobilna](2023/zima/INF.04-01-23.01-SD-Aplikacja_mobilna/mobilna)
 
 * 🖥️ **Aplikacja desktopowa** | INF.04 – Styczeń 01 2023
   * 📄 Arkusz: [(Aplikacja desktopowa)](2023/zima/INF.04-01-23.01-SG-Aplikacja_desktopowa_Dodaj_pracownika/inf_04_2023_01_01_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2023/zima/INF.04-01-23.01-SG-Aplikacja_desktopowa_Dodaj_pracownika/inf_04_2023_01_01_SG_zo.pdf)
   * 📦 Pliki (.zip): brak
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2023/zima/INF.04-01-23.01-SG-Aplikacja_desktopowa_Dodaj_pracownika/konsola) | [Aplikacja desktopowa](2023/zima/INF.04-01-23.01-SG-Aplikacja_desktopowa_Dodaj_pracownika/desktopowa)
 
 * 📱 **Aplikacja mobilna** | INF.04 – Styczeń 02 2023
   * 📄 Arkusz: [(Aplikacja mobilna)](2023/zima/INF.04-02-23.01-SG-Aplikacja_mobilna_Proste_notatki_tekstowe/inf_04_2023_01_02_SG_kolor.pdf)
   * 📝 Zasady oceniania: [(Zasady oceniania)](2023/zima/INF.04-02-23.01-SG-Aplikacja_mobilna_Proste_notatki_tekstowe/inf_04_2023_01_02_SG_zo.pdf)
   * 📦 Pliki (.zip): [(zad2.zip)](2023/zima/INF.04-02-23.01-SG-Aplikacja_mobilna_Proste_notatki_tekstowe/zad2.zip)
-  * 💻 Rozwiązanie: [link]
+  * 💻 Rozwiązanie: [Aplikacja konsolowa](2023/zima/INF.04-02-23.01-SG-Aplikacja_mobilna_Proste_notatki_tekstowe/konsola) | [Aplikacja mobilna](2023/zima/INF.04-02-23.01-SG-Aplikacja_mobilna_Proste_notatki_tekstowe/mobilna)
 
 ---
 
