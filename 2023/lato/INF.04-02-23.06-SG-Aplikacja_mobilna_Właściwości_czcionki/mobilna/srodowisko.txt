@@ -1,0 +1,2 @@
+Środowisko programistyczne: Android Studio
+Emulowane urządzenie: Pixel 8 API 35
